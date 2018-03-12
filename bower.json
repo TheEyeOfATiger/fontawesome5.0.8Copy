@@ -1,0 +1,13 @@
+{
+  "name": "fontawesome5.0.8Copy",
+  "homepage": "https://github.com/TheEyeOfATiger/fontawesome5.0.8Copy",
+  "authors": [
+    "TheEyeOfATiger <lazar.samuel@gmail.com>"
+  ],
+  "description": "source for fontawesome5",
+  "main": ["./svg-with-js/js/fontawesome-all.js", "./svg-with-js/css/fa-svg-with-js.css"],
+  "keywords": [
+    "leumas-fontawesome5"
+  ],
+  "license": "NO"
+}
